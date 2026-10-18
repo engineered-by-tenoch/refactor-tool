@@ -71,7 +71,7 @@ The original input remains unchanged, allowing users to modify their replacement
 ### Demonstration
 ![Image](Assets/image.png)
 
-[Video](<engineered-by-tenoch/refactor-tool/Assets/Demo.mp4>)
+[Video](Assets/Demo.mp4)
 
 ### Source Code
 [Script](<Assets/Code/Refactor.py>)
