@@ -69,7 +69,7 @@ The original input remains unchanged, allowing users to modify their replacement
 
 
 ### Demonstration
-![Image](<engineered-by-tenoch/refactor-tool/Assets/image.png>)
+![Image](engineered-by-tenoch/refactor-tool/Assets/image.png)
 
 [Video](<engineered-by-tenoch/refactor-tool/Assets/Demo.mp4>)
 
